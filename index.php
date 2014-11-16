@@ -4,5 +4,5 @@ echo "Haroon";
 echo "Tanver";
 var_dump($_SERVER);
 echo 'hello world';
-echo"hello bangladesh";
+echo"bangladesh";
 ?>
